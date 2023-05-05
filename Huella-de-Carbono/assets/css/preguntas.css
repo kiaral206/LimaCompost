@@ -1,0 +1,142 @@
+
+@font-face {
+  font-family: 'le1';
+  src: url('../fonts/2.otf');
+}
+
+@font-face {
+  font-family: 'lc1';
+  src: url('../fonts/MeaCulpa-Regular.otf');
+}
+
+    body {
+      
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-position: 100px 25px ;
+        background-position:center center;
+        background-color: rgb(229, 248, 232);     
+        padding: 0;
+        margin: 0;
+        text-align: center;
+        font-family: 'BenchNine';font-size: 22px;
+        font-size: 130%;
+    }
+    /*-------------------*/
+   
+    /*-----------------*/
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+    .y2{
+font-family: 'le1';
+font-size: 25px;
+    }
+
+
+    .contenedor {
+        margin-top:5% ;
+      width: 98vw;
+      height: 97vh;
+      display: inline-flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .encabezado {
+      position: relative;
+      background: rgb(255, 255, 255);
+      min-width: 300px;
+      width: 70%;
+      max-width: 600px;
+      padding: 10px;
+      border-radius: 10px;
+    }
+
+    .categoria {
+      opacity: 0.3;
+      text-align: left;
+     
+    }
+
+    .pregunta {
+      padding: 10px;
+    }
+
+    .imagen {
+      object-fit: cover;
+      height: 0px;
+      width: 0px;
+    }
+
+    .btn {
+      border-radius: 10px;
+      background: rgb(255, 255, 255);
+      width: 60%;
+      max-width: 550px;
+      padding: 10px;
+      margin: 5px;
+      cursor: pointer;
+    }
+
+    .btn:hover {
+      transform: scale(1.05);
+    }
+    
+    .numero{
+      position: absolute;
+      opacity:0.3;
+      top: 10px;
+      right: 10px;
+    }
+    
+    .puntaje{
+      padding:10px;
+      color:rgb(135, 135, 135);
+    }
+    .bodyoriginal{
+
+        background-repeat: no-repeat ;
+        background-position-x: center;
+        background-size: cover;
+        background-image: url(https://www.wallpapertip.com/wmimgs/2-27944_pixels-wallpapers-high-quality-download-free-pixel-art.png);
+        
+    }
+    .titulodeact{
+    
+     font-family: 'Amatic SC';font-size: 50px;
+     color: rgb(0, 0, 0);
+    
+    }
+    .botonper:hover{
+        background-position: center center ;
+        padding: 10px;
+        margin: 10px;
+        background-color: rgba(206, 192, 4, 0.808);
+        border-radius: 5px;
+        color: black;
+        border: solid 2px;
+        text-decoration: none;
+        font-family: 'Hi Melody';font-size: 25px;
+    
+    }
+    .botonper{
+    
+        background-position: center center ;
+        padding: 10px;
+        margin: 10px;
+        background-color: rgba(109, 184, 202, 0.685);
+        border-radius: 5px;
+        color: black;
+        border: solid 2px;
+        text-decoration: none;
+        font-family: 'Hi Melody';font-size: 25px;
+    }
+   

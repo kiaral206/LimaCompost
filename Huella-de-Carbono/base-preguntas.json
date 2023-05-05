@@ -1,0 +1,105 @@
+[
+    {
+        "categoria": "INICIO",
+        "pregunta": "¿Cuantas personas viven en tu casa?",
+        "respuesta": "1",
+        "incorrecta1": "Entre 2 a 4",
+        "incorrecta2": "Entre 5 a 7",
+        "incorrecta3": "Mas de 7",
+        "imagen": "https://huelladeciudades.com/AppHCCali/img/icono-casa.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "ELECTRICIDAD",
+        "pregunta": "¿Aproximadamente, cuánto pagas al mes por el servicio de energía eléctrica?",
+        "respuesta": "Menos de 50",
+        "incorrecta1": "Entre 50 a 80",
+        "incorrecta2": "Entre 80 a 100 ",
+        "incorrecta3": "Mas de 100",
+        "imagen": "https://huelladeciudades.com/AppHCCali/img/icono-electricidad.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "GAS LICUADO DE PETRÓLEO (GLP)",
+        "pregunta": "¿Cuántos cilindros de gas (de 10 libras) usas al mes?",
+        "respuesta": "No consumo gas en cilindros",
+        "incorrecta1": "Entre 1 a 3 ",
+        "incorrecta2": "Entre 3 a 5 ",
+        "incorrecta3": "Mas de 5",
+        "imagen": "https://huelladeciudades.com/AppHCCali/img/icono-gas.jpg",
+        "objectFit": "contain"
+    }, {
+        "categoria": "GAS NATURAL",
+        "pregunta": "¿Cuánto pagas al mes por el servicio de gas domiciliario?",
+        "respuesta": "No consumo gas natural",
+        "incorrecta1": "Entre 1 a 3 ",
+        "incorrecta2": "Entre 3 a 5 ",
+        "incorrecta3": "Mas de 5",
+        "imagen": "https://huelladeciudades.com/AppHCCali/img/icono-gas-domiciliario.jpg",
+        "objectFit": "contain"
+    }, {
+        "categoria": "TRANSPORTE",
+        "pregunta": "¿Tienes vehículo propio?",
+        "respuesta": "No",
+        "incorrecta1": "Si",
+        "incorrecta2": "Prestado pero lo uso constantemente ",
+        "imagen": "https://huelladeciudades.com/AppHCCali/img/icono-transporte.jpg",
+        "objectFit": "contain"
+    }, {
+        "categoria": "TRANSPORTE",
+        "pregunta": "¿Cuánto gastas en gasolina por semana?",
+        "respuesta": "menos de 20 soles",
+        "incorrecta1": "entre 20 y 40 soles",
+        "incorrecta2": "entre 40 y 80 soles ",
+        "incorrecta3": "mas de 80 soles",
+        "imagen": "https://huelladeciudades.com/AppHCCali/img/icono-transporte.jpg",
+        "objectFit": "contain"
+    }, {
+        "categoria": "TRANSPORTE",
+        "pregunta": "¿Usas transporte público?",
+        "respuesta": "Siempre",
+        "incorrecta1": "Aveces",
+        "incorrecta2": "No ",
+        "incorrecta3": "SI",
+        "imagen": "https://huelladeciudades.com/AppHCCali/img/icono-publico.jpg",
+        "objectFit": "contain"
+    }, {
+        "categoria": "TRANSPORTE",
+        "pregunta": "Cuántas veces al día usas: ",
+        "respuesta": "1 ves al dia",
+        "incorrecta1": "entre 2 a 4 veces al dia",
+        "incorrecta2": "entre 4 a 7 veces al dia ",
+        "incorrecta3": "mas de 7 veces",
+        "imagen": "https://huelladeciudades.com/AppHCCali/img/icono-publico.jpg",
+        "objectFit": "contain"
+    }, {
+        "categoria": "VIAJES EN AVIÓN",
+        "pregunta": "¿Cuántas veces al año viajas en avión?        ",
+        "respuesta": "No viajo en avion",
+        "incorrecta1": "entre 1 a 3 veces",
+        "incorrecta2": "Entre 3 a 5 ",
+        "incorrecta3": "mas de 5 veces",
+        "imagen": "https://huelladeciudades.com/AppHCCali/img/icono-avion.jpg",
+        "objectFit": "contain"
+    }, {
+        "categoria": "",
+        "pregunta": " ",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": " ",
+        "incorrecta3": "",
+        "imagen": "",
+        "objectFit": "contain"
+    }, {
+        "categoria": "",
+        "pregunta": " ",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": " ",
+        "incorrecta3": "",
+        "imagen": "",
+        "objectFit": "contain"
+    }
+    
+
+    ]

@@ -1,0 +1,48 @@
+.carbon-footprint {
+    margin: 50px 0;
+  }
+  
+  .carbon-footprint h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .carbon-footprint form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 20px;
+  }
+  
+  .carbon-footprint label {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .carbon-footprint select {
+    font-size: 16px;
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #cccccc;
+  }
+  
+  .carbon-footprint button {
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: #008CBA;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .carbon-footprint button:hover {
+    background-color: #005F6B;
+  }
+  
+  .carbon-footprint #resultado {
+    font-size: 24px;
+  }
+  
